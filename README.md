@@ -1,6 +1,13 @@
 # Text Editor
 > A learning project on implemening text editor features with data structures such as Linkedlist, Tree, Trie, HashSet in Java.
 
+## Table of Contents
+* [Features](#features)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Navigate through code](#navigate-through-code)
+
+
 ## Features
 List the ready features here:
 - Flesch Readability Score Calculation
