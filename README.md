@@ -32,3 +32,15 @@ Spelling Suggestion / Word Auto-Completion
 Word Path Search
 - Search the word path (edit distance) between two words
 - For instance, the word path of "time" to "main" could be: time -> mime -> mine -> maine -> main
+
+##  Navigate through code
+1. Source code can be found in the directory `source_code\src`.
+2. Codes for each features can be found in below list of files correspondingly:
+>
+| Feature | File |
+| :---: | :---: |
+| Flesch Readability Score Calculation | `document\EfficientDocument.java` |
+| Markov Text Generation | `textgen\MarkovTextGeneratorLoL.java` |
+| Spelling Suggestion | `spelling\NearbyWords.java` |
+| Word Auto-Completion | `spelling\AutoCompleteDictionaryTrie.java` |
+| Word Path Search | `spelling\WPTree.java`|
