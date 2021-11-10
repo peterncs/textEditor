@@ -1,12 +1,6 @@
 # Text Editor
 > A learning project on implemening text editor features with data structures such as Linkedlist, Tree, Trie, HashSet in Java.
 
-## Table of Contents
-* [Features](#features)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Navigate through code](#navigate-through-code)
-
 
 ## Features
 List the ready features here:
@@ -39,6 +33,7 @@ Spelling Suggestion / Word Auto-Completion
 Word Path Search
 - Search the word path (edit distance) between two words
 - For instance, the word path of "time" to "main" could be: time -> mime -> mine -> maine -> main
+
 
 ##  Navigate through code
 1. Source code can be found in the directory `source_code\src`.
