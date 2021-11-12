@@ -29,6 +29,7 @@ List the ready features here:
 
 ### Spelling Suggestion / Word Auto-Completion
 - Suggest nearby words of the mispelled or incompleted word in the dictionary
+- Right Click the mispelled word to provide spelling suggestions
 
 ### Word Path Search
 - Search the word path (edit distance) between two words
